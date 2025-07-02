@@ -56,7 +56,11 @@ button{
     transition:background-color 0.2s;
     font-size:22px;
     text-align: center;
+     background-color: #3b3838;
     
+}
+button:hover{
+    background-color: white;
 }
 
 .operator{
@@ -71,6 +75,5 @@ button{
     font-weight: 350;
 }
 .number{
-    background-color: #3b3838;
     font-size: 25px;
 }
